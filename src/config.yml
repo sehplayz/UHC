@@ -1,0 +1,23 @@
+//For Mineraft color codes copy or click this link http://minecraft.gamepedia.com/Formatting_codes
+
+//Track's the player kills wins deaths
+stats:
+  playername:
+    kills: 0
+    wins: 0
+    deaths: 0
+
+
+
+//Here you can Edit the sign's motd
+signs:
+   states:
+     open:
+      - '§l§2click here to play'
+     starting:
+      - '§l§6starting...'
+     ingame:
+      - '§l§4The Game is in progress'
+     ended:
+      - '§l§cThe Game has ENDED'
+
